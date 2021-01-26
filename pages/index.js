@@ -1,9 +1,13 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
+import React from 'react';
+import {useState} from 'react';
+import {useRouter} from 'next/router';
 import db from '../db.json';
 import Widget from '../src/components/Widget/index';
 import Footer from '../src/components/Footer/index';
 import GitHubCorner from '../src/components/GitHubCorner/index';
 import QuizBg from '../src/components/QuizBg/index';
+import FormInput from '../src/components/InputName/index';
 
 
 export const QuizContainer = styled.div`
@@ -19,15 +23,17 @@ export const QuizContainer = styled.div`
 
 
 export default function Home() {
+ 
   return (
     <QuizBg backgroundImage={db.bg}>
       <QuizContainer>
         <Widget>
           <Widget.Header>
-              <h1>Teste</h1>
+              <h1>Universo Marvel</h1>
           </Widget.Header>
           <Widget.Content>
-            <p>Lorem Ipsum dolor sit amet...</p>
+            <p>Teste os seus conhecimentos sobre o universo Marvel e divirta-se criando o seu AluraQuiz!</p>
+            <FormInput/>
           </Widget.Content>
         </Widget>
         <Widget>
