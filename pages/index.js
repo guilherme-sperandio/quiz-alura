@@ -44,7 +44,7 @@ export default function Home() {
         </Widget>
         <Footer/>
       </QuizContainer>
-      <GitHubCorner projectUrl="www.google.com"/>
+      <GitHubCorner projectUrl="https://github.com/guilherme-sperandio"/>
     </QuizBg>
   )
 }
