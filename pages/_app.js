@@ -1,6 +1,8 @@
 import styled, { createGlobalStyle, ThemeProvider } from 'styled-components'
 import db from '../db.json';
 import Head from 'next/head';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const GlobalStyle = createGlobalStyle`
 * {
@@ -37,6 +39,7 @@ export default function App({ Component, pageProps }) {
       </Head>
       <ThemeProvider theme={theme}>
         <GlobalStyle />
+        <ToastContainer />
         <Component {...pageProps} />
       </ThemeProvider>
     </>

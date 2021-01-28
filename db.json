@@ -4,25 +4,364 @@
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://ahaslides.com/wp-content/uploads/2020/07/5cf569025b8385b838d8459097070777.gif",
+        "title": "Em que ano foi lançado o primeiro filme do Homem de Ferro, dando início ao Universo Cinematográfico da Marvel?",
+        "description": "Tony stark",
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "2005",
+          "2008",
+          "2010",
+          "2012"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://64.media.tumblr.com/1da0b2b96b5b6a13335741bd0489eccf/tumblr_mlp64uLYBk1qhjmm4o3_r1_250.gifv",
+        "title": "Qual é o nome do martelo de Thor?",
+        "description": "dica = Martelão Pika",
+        "answer": 1,
+        "alternatives": [
+           "Vanir",
+           "Mjolnir",
+           "Aesir",
+           "Norn"
+        ]
+      },
+      {
+        "image": "https://cdn.vox-cdn.com/thumbor/VkpKrpL9Wv5-9vnyidQEzA96qis=/0x0:1920x815/920x613/filters:focal(639x188:945x494):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/66476466/GeneralRoss_TIH.0.png",
+        "title": "No Incrível Hulk, o que Tony diz a Thaddeus Ross no final do filme?",
+        "description": "Thaddeus Ross é o general militar",
+        "answer": 2,
+        "alternatives": [
+           "Que ele quer estudar o Hulk",
+           "Que ele sabe sobre a SHIELD",
+           "Que eles estão montando uma equipe",
+           "Que Thaddeus lhe deve dinheiro"
+        ]
+      },
+      {
+        "image": "https://www.einerd.com.br/wp-content/uploads/2019/04/Escudo-do-Capit%C3%A3o-Am%C3%A9rica-capa-1-890x466.jpg",
+        "title": "Do que é feito o escudo do Capitão América?",
+        "description": "O escudo é aquele negocio redondo que ele joga",
+        "answer": 1,
+        "alternatives": [
+           "Adamantium",
+           "Vibranium",
+           "promécio",
+           "Carbonádio"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Os Flerkens são uma raça de alienígenas extremamente perigosos que se assemelha a quê?",
+        "description": "Bixo putasso",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Gatos",
+           "Patos",
+           "répteis",
+           "Guaxinins"
+        ]
+      },
+      {
+        "image": "https://ahaslides.com/wp-content/uploads/2020/07/31a79fe0a7881e0d92bff6eef389290559ce99b2.jpg",
+        "title": "Antes de se tornar Vision, qual é o nome do mordomo de IA do Homem de Ferro?",
+        "description": "o vermelhinho",
+        "answer": 1,
+        "alternatives": [
+           "HOMER",
+           "JARVIS",
+           "ALFRED",
+           "MARVIN"
+        ]
+      },
+      {
+        "image": "https://conexaoplaneta.com.br/wp-content/uploads/2020/08/chadwick-boseman-pantera-negra-0.jpg",
+        "title": "Qual é o verdadeiro nome da Pantera Negra?",
+        "description": "Wakanda pra sempre",
+        "answer": 0,
+        "alternatives": [
+           "T'Challa",
+           "M'Baku",
+           "N'Jadaka",
+           "N'Jobu"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Qual é a raça alienígena que Loki envia para invadir a Terra em Os Vingadores?",
+        "description": "primeiro vingadores",
+        "answer": 0,
+        "alternatives": [
+           "Os Chitauri",
+           "Os skrulls",
+           "The Kree",
+           "The Flerkens"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Quem foi o último detentor do Pedra do espaço antes de Thanos reivindicá-lo por sua Manopla do Infinito?",
+        "description": "nem eu sei",
+        "answer": 1,
+        "alternatives": [
+           "Thor",
+           "Loki",
+           "O Colecionador",
+           "Tony Stark"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Qual nome falso Natasha usa quando conhece Tony?",
+        "description": "gata pra krl",
+        "answer": 0,
+        "alternatives": [
+           "Natalie Rushman",
+           "Natalia Romanoff",
+           "Nicole Rohan",
+           "Naya Rabe"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "O que Thor quer quando está na lanchonete?",
+        "description": "Maconha ",
+        "answer": 3,
+        "alternatives": [
+           "Uma fatia de torta",
+           "Uma caneca de cerveja",
+           "Uma pilha de panquecas",
+           "Um copo de café"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Onde Peggy diz a Steve que ela quer encontrá-lo para uma dança, antes que ele mergulhe no gelo?",
+        "description": "baile da dz17 ",
+        "answer": 1,
+        "alternatives": [
+           "The Cotton Club",
+           "A Stork Club",
+           "El Marrocos",
+           "Copacabana"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " Sobre que cidade Hawkeye e Viúva Negra costumam relembrar?",
+        "description": "Píracicaba concerteza não é",
+        "answer": 0,
+        "alternatives": [
+           "Budapeste",
+           "Praga",
+           "Istambul",
+           "Piracicaba"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " Quem o Titã Louco sacrifica para adquirir a Pedra da Alma?",
+        "description": "easy",
+        "answer": 3,
+        "alternatives": [
+           "Nebulosa",
+           "Ebony ",
+           "Obsidiana ",
+           "Gamora"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " Qual é o nome do garotinho que Tony faz amizade enquanto está preso no Homem de Ferro 3?",
+        "description": "sla menor",
+        "answer": 2,
+        "alternatives": [
+           "Harry",
+           "Hary ",
+           "Harley ",
+           "Holden"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " Onde Lady Sif e Volstagg mantêm a Pedra da Realidade depois que os Elfos Negros tentaram roubá-la?",
+        "description": "No c*",
+        "answer": 3,
+        "alternatives": [
+           "Em Vormir",
+           "Em um cofre em Asgard ",
+           "Dentro da espada de Sif ",
+           "Para o colecionador"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " O que o Soldado Invernal disse depois que Steve o reconheceu pela primeira vez?",
+        "description": "Oie amor",
+        "answer": 0,
+        "alternatives": [
+           "Quem diabos é Bucky?",
+           "Eu conheço você? ",
+           "Ele se foi ",
+           "O que você disse?"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " Quais foram os três itens que Rocket afirma que ele precisava para escapar da prisão?",
+        "description": "vibrador, uma meia calça, e um cd do jotaquest",
+        "answer": 1,
+        "alternatives": [
+           "Um cartão de segurança, um garfo e um monitor de tornozelo",
+           "Uma faixa de segurança, uma bateria e uma perna protética ",
+           "Um par de binóculos, um detonador e uma perna protética ",
+           "Uma faca, fios de cabo e mixtape de Peter"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " Que palavra Tony profere que faz Steve dizer “Linguagem”?",
+        "description": "tambem n sei",
+        "answer": 2,
+        "alternatives": [
+           "Porcaria",
+           "Idiota ",
+           "Merda",
+           "Bosta"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " Que animal Darren Cross encolhe sem sucesso no Homem-Formiga?",
+        "description": "godzilla",
+        "answer": 1,
+        "alternatives": [
+           "Rato",
+           "Ovelha ",
+           "Pato",
+           "Barata"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " Quem é morto por Loki nos Vingadores?",
+        "description": "eu, o chapolim colorado",
+        "answer": 2,
+        "alternatives": [
+           "Maria Hill",
+           "Nick Fury ",
+           "Agente Coulson",
+           "Doutor Erik Selvig"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " Quem é a irmã de Pantera Negra?",
+        "description": "a nerd",
+        "answer": 0,
+        "alternatives": [
+           "Shuri",
+           "Nakia ",
+           "Ramonda",
+           "Okoye"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": " De que ponto de vista Peter Parker resgata seus colegas de classe em Spider-Man?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+           "Washington Monument",
+           "Estátua da Liberdade ",
+           "Mount Rushmore",
+           "Golden Gate Bridge"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Que música Baby Groot dança no final do primeiro Guardian of the Galaxy?",
+        "description": "Robocop gay",
+        "answer": 2,
+        "alternatives": [
+           "'Cherry Bomb' - The Runaways",
+           "'Ain't No Mountain High Enough' - Marvin Gaye e Tammi Terrell ",
+           "'I Want You Back' - The Jackson 5",
+           "'Hooked On A Feeling' - Voidoid"
+        ]
+      },
+     
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Que tipo de médico é Stephen Strange?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+           "Neurocirurgião",
+           "Cirurgião cardiotorácico ",
+           "Cirurgião de trauma",
+           "Cirurgião Plástico"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Qual é o nome real da Feiticeira Escarlate?",
+        "description": "linda tbm",
+        "answer": 2,
+        "alternatives": [
+           "Natalie Rushman",
+           "Capitão Marvel",
+           "Wanda Maximoff",
+           "Gamora"
+        ]
+      }, 
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Qual planeta Peter Quill recupera o Orbe que contém a Pedra de Poder?",
+        "description": "essa é dificil",
+        "answer": 0,
+        "alternatives": [
+           "Morag",
+           "Xandar",
+           "Ego",
+           "Contraxia"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Quem foi o vilão de 'Thor: The Dark World'?",
+        "description": "segundo filme do thor",
+        "answer": 3,
+        "alternatives": [
+           "Thanos",
+           "Gigante de Gelo",
+           "Loki",
+           "Malekith"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Em que cena de pós-crédito do filme Thanos apareceu pela primeira vez?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Thor",
+           "Os Vingadores",
+           "Capitão America: Primeiro Vingador",
+           "Homem de Ferro 3"
+        ]
+      },
+      {
+        "image": "https://64.media.tumblr.com/f08b61016736dfb7e9b5f87a4ecc8637/tumblr_n19f0274mT1s8gf9ko5_500.gifv",
+        "title": "Qual é o único filme da Marvel a não ter uma cena pós-crédito?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+           "Vingadores: Fim do jogo",
+           "Os Vingadores",
+           "Homem Formiga",
+           "Pantera Negra"
         ]
       }
     ],
